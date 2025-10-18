@@ -47,5 +47,9 @@ public class UserDAO {
         }
         return null;
     }
-}
 
+    // New method to reset password
+    
+
+
+}
